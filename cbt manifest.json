@@ -3,8 +3,10 @@
   "short_name": "CBT",
   "start_url": "https://www.cobietech.com",
   "display": "standalone",
-  "background_color": "#ffffff",
-  "theme_color": "#1a73e8",
+  "orientation": "portrait",
+  "lang": "en-US",
+  "background_color": "#020d35",
+  "theme_color": "#020d35",
   "description": "We blog and solve issues on Tech Tips Life Hacks Blogging Guides Telecom Social Trends SEO and many more only on CBT",
   "icons": [{
     "src": "https://1.bp.blogspot.com/-8KgdcRNZtds/X2I3lZFlJHI/AAAAAAAAMVg/JRirtJ8nfdMUNFIqXaS3VhRORa-X2rIMwCLcBGAsYHQ/s0/40.png' rel='apple-touch-icon",
