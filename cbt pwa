@@ -1,0 +1,51 @@
+{
+  "name": "CobieTech",
+  "short_name": "CBT",
+  "start_url": "https://www.cobietech.com",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#1a73e8",
+  "description": "We blog and solve issues on Tech Tips Life Hacks Blogging Guides Telecom Social Trends SEO and many more only on CBT",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-8KgdcRNZtds/X2I3lZFlJHI/AAAAAAAAMVg/JRirtJ8nfdMUNFIqXaS3VhRORa-X2rIMwCLcBGAsYHQ/s0/40.png' rel='apple-touch-icon",
+    "sizes": "40x40",
+    "type": "image/png",
+    "density": "0.75"
+  }, {
+    "src": "https://1.bp.blogspot.com/-qtXjcH3I43E/X2I3lbEdqCI/AAAAAAAAMVc/yh_V1qNOVdkMVt-zMzshNKlSmg9Jr-jWACLcBGAsYHQ/s0/48.png' rel='apple-touch-icon' rel='apple-touch-icon",
+    "sizes": "48x48",
+    "type": "image/png",
+    "density": "1.0"
+  }, {
+    "src": "https://1.bp.blogspot.com/-aK4nyK5ByDc/X2I3nNr-QMI/AAAAAAAAMWA/QaS3WX4iddkc-atFmi2swhqDGy54t-K-QCLcBGAsYHQ/s0/72.png' rel='apple-touch-icon",
+    "sizes": "72x72",
+    "type": "image/png",
+    "density": "1.5"
+  }, {
+    "src": "https://1.bp.blogspot.com/-3suk3PSkpuk/X2I3NKsRoFI/AAAAAAAAMQ8/7Mi9qIVwhsU9vQeoPmOF_tyC2jUlm1zMACLcBGAsYHQ/s0/android-icon-96x96.png'rel='apple-touch-icon",
+    "sizes": "96x96",
+    "type": "image/png",
+    "density": "2.0"
+  }, {
+    "src": "https://1.bp.blogspot.com/-uDQ3jeDMh_U/X2I3Lgtm7-I/AAAAAAAAMQs/gROosE-E-j0u3l-htXTHMusmFv3zzQsiACLcBGAsYHQ/s0/android-icon-144x144.png' rel='apple-touch-icon",
+    "sizes": "144x144",
+    "type": "image/png",
+    "density": "3.0"
+  }, {
+    "src": "https://1.bp.blogspot.com/-lDEwk4teS0g/X2I3eWFlHKI/AAAAAAAAMUU/J3VpPeR7ODo7hxvkjAIYZyi6InkN_9xYQCLcBGAsYHQ/s0/cbtpwa192.png' rel='apple-touch-icon",
+    "sizes": "192x192",
+    "type": "image/png",
+    "density": "4.0"
+  }, {
+    "src": "https://1.bp.blogspot.com/-laqmvIZKbS8/X2I3ebAeNPI/AAAAAAAAMUQ/AnpSixLmi1UIRuZtAMd8KPnT5qkv8-iXgCLcBGAsYHQ/s320/cbtpwa512.png' rel='apple-touch-icon",
+    "sizes": "512x512",
+    "type": "image/png",
+    "density": "5.0"
+  }, {
+    "src": "https://1.bp.blogspot.com/-RzAu4vUXhyw/X2I3eQPlqbI/AAAAAAAAMUM/bh1ZxmAMbCULhfv_pUjjVMcoZapZmAuCgCLcBGAsYHQ/s320/cbtpwa1020.png' rel='apple-touch-icon",
+    "sizes": "1020x1020",
+    "type": "image/png",
+    "density": "6.0"
+    }]
+}
+
